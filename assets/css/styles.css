@@ -8,6 +8,21 @@
 */
 /* styles.css */
 /* ======= Base ======= */
+
+/*****************estilos personales****************/
+.a_hover:hover{
+  color: #778CFA;
+  /*font-size: 30px;*/
+  /*border-radius: 100px;*/
+  /*padding: 8px;*/
+  /*width: 50px;*/
+  
+}
+
+.div_redes{
+  margin-bottom: -1.5em;
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;

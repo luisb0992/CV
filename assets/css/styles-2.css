@@ -8,6 +8,7 @@
 */
 /* styles-2.css */
 /* ======= Base ======= */
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
@@ -52,7 +53,7 @@ p {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 .sidebar-wrapper {
-  background: #4CAC9D;
+  background: #4458BF;
   position: absolute;
   right: 0;
   width: 240px;
